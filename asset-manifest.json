@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.46f75ede.chunk.css",
-    "main.js": "/static/js/main.d19aae31.chunk.js",
-    "main.js.map": "/static/js/main.d19aae31.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a22b32b4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a22b32b4.js.map",
+    "main.js": "/static/js/main.efc54978.chunk.js",
+    "main.js.map": "/static/js/main.efc54978.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d679b661.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d679b661.js.map",
     "static/css/2.b28305bc.chunk.css": "/static/css/2.b28305bc.chunk.css",
-    "static/js/2.1d8259e9.chunk.js": "/static/js/2.1d8259e9.chunk.js",
-    "static/js/2.1d8259e9.chunk.js.map": "/static/js/2.1d8259e9.chunk.js.map",
-    "static/js/3.2554d18a.chunk.js": "/static/js/3.2554d18a.chunk.js",
-    "static/js/3.2554d18a.chunk.js.map": "/static/js/3.2554d18a.chunk.js.map",
+    "static/js/2.66415413.chunk.js": "/static/js/2.66415413.chunk.js",
+    "static/js/2.66415413.chunk.js.map": "/static/js/2.66415413.chunk.js.map",
+    "static/js/3.399d3013.chunk.js": "/static/js/3.399d3013.chunk.js",
+    "static/js/3.399d3013.chunk.js.map": "/static/js/3.399d3013.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b28305bc.chunk.css.map": "/static/css/2.b28305bc.chunk.css.map",
     "static/css/main.46f75ede.chunk.css.map": "/static/css/main.46f75ede.chunk.css.map",
-    "static/js/2.1d8259e9.chunk.js.LICENSE.txt": "/static/js/2.1d8259e9.chunk.js.LICENSE.txt",
+    "static/js/2.66415413.chunk.js.LICENSE.txt": "/static/js/2.66415413.chunk.js.LICENSE.txt",
     "static/media/1.adb8ff2d.webp": "/static/media/1.adb8ff2d.webp",
     "static/media/1.dbc404d2.webp": "/static/media/1.dbc404d2.webp",
     "static/media/1.f9127879.webp": "/static/media/1.f9127879.webp",
@@ -47,7 +47,7 @@
     "static/media/8.49e6a607.webp": "/static/media/8.49e6a607.webp",
     "static/media/9.7be95217.webp": "/static/media/9.7be95217.webp",
     "static/media/App.scss": "/static/media/HelveticaNeue.83f69e89.woff",
-    "static/media/TERMS AND CONDITIONS MOGGIE RESCUE CLUB NFT.7c370b4d.pdf": "/static/media/TERMS AND CONDITIONS MOGGIE RESCUE CLUB NFT.7c370b4d.pdf",
+    "static/media/TERMS AND CONDITIONS MOGGIE RESCUE CLUB NFT.23f0960b.pdf": "/static/media/TERMS AND CONDITIONS MOGGIE RESCUE CLUB NFT.23f0960b.pdf",
     "static/media/TopSection.scss": "/static/media/banner.f707aac1.webp",
     "static/media/cat-left.61e73d12.webp": "/static/media/cat-left.61e73d12.webp",
     "static/media/cat-right.ba02c292.webp": "/static/media/cat-right.ba02c292.webp",
@@ -67,10 +67,10 @@
     "static/media/walletconnect.d89f2978.webp": "/static/media/walletconnect.d89f2978.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.a22b32b4.js",
+    "static/js/runtime-main.d679b661.js",
     "static/css/2.b28305bc.chunk.css",
-    "static/js/2.1d8259e9.chunk.js",
+    "static/js/2.66415413.chunk.js",
     "static/css/main.46f75ede.chunk.css",
-    "static/js/main.d19aae31.chunk.js"
+    "static/js/main.efc54978.chunk.js"
   ]
 }
